@@ -1,0 +1,363 @@
+{
+  "id": "31524",
+  "name": "Sam Lashley",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Kendal Cycle Club",
+  "bar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Kendal Cycle Club",
+        "position": "14",
+        "time": "0:07:59.0",
+        "speed": "0.00 Mph",
+        "bar": 0,
+        "barPosition": 121,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 32,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Kendal Cycle Club",
+      "position": "14",
+      "time": "0:07:59.0",
+      "speed": "0.00 Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Kendal Cycle Club",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 130,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 50
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 72
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 90
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 98
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 130
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 127,
+      "id": "11387",
+      "pointsDirection": 32,
+      "name": "Patrick Clark",
+      "club": "Team Lifting Gear Products/Cycles In Motion",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 128,
+      "id": "18829",
+      "pointsDirection": 32,
+      "name": "Ben Granger",
+      "club": "CCCR",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 129,
+      "id": "35473",
+      "pointsDirection": 32,
+      "name": "John Russell",
+      "club": "Team Bikestop Tyrekey",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 130,
+      "id": "31524",
+      "pointsDirection": 32,
+      "name": "Sam Lashley",
+      "club": "Kendal Cycle Club",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 131,
+      "id": "11840",
+      "pointsDirection": 32,
+      "name": "Michael Harcourt",
+      "club": "Team Bikestop Tyrekey",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 132,
+      "id": "31881",
+      "pointsDirection": 32,
+      "name": "Sean Leckey",
+      "club": "CCCR",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 133,
+      "id": "11763",
+      "pointsDirection": 32,
+      "barPredictedFinalPosition": 46,
+      "name": "Sam Leng",
+      "club": "AIMS Cycling",
+      "averagePointsPerRace": 0,
+      "predictedFinalPoints": 0,
+      "grandTotal": 0,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "id": "9483",
+  "name": "Roddy Weir",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Muckle Cycle Club",
+        "position": "3",
+        "time": "0:03:55.4",
+        "speed": "0.00 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 241,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 241,
+    "predictedFinalPoints": 119,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 119,
+      "medium": 0,
+      "long": 0,
+      "grand": 119
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Muckle Cycle Club",
+      "position": "3",
+      "time": "0:03:55.4",
+      "speed": "0.00 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 64,
+  "barHistory": [
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 119,
+        "medium": 0,
+        "long": 0,
+        "grand": 119
+      },
+      "position": 64
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 2nd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "30708",
+      "pointsDirection": -11,
+      "name": "Gavin Quiney",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "24505",
+      "pointsDirection": 10,
+      "name": "Frank Devlin",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "29644",
+      "pointsDirection": -25,
+      "name": "Daniel Saba",
+      "club": "Vector Racing",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 138,
+      "grandTotal": 138,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "9483",
+      "pointsDirection": 0,
+      "name": "Roddy Weir",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "24395",
+      "pointsDirection": -48,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "30825",
+      "pointsDirection": 12,
+      "name": "Theodor Obholzer",
+      "club": "Durham University Cycling Club",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 114,
+      "grandTotal": 114,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "4590",
+      "pointsDirection": 12,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 112,
+      "predictedFinalPoints": 112,
+      "grandTotal": 112,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

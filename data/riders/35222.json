@@ -1,0 +1,364 @@
+{
+  "id": "35222",
+  "name": "Callum Martin",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Blaydon CC",
+        "position": "43",
+        "time": "0:05:48.5",
+        "speed": "0.00 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Blaydon CC",
+        "position": "67",
+        "time": "0:05:08.6",
+        "speed": "0.00 Mph",
+        "bar": 75,
+        "barPosition": 46,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 81.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 81.5,
+    "remainingShortPoints": 197,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 197,
+    "predictedFinalPoints": 163,
+    "pointsDirection": -22,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 163,
+      "medium": 0,
+      "long": 0,
+      "grand": 163
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Blaydon CC",
+      "position": "43",
+      "time": "0:05:48.5",
+      "speed": "0.00 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Blaydon CC",
+      "position": "67",
+      "time": "0:05:08.6",
+      "speed": "0.00 Mph",
+      "bar": 75,
+      "barPosition": 46,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 54,
+  "barHistory": [
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 51
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 67
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 76
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 163,
+        "medium": 0,
+        "long": 0,
+        "grand": 163
+      },
+      "position": 54
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 51,
+      "id": "35455",
+      "pointsDirection": -13,
+      "name": "Lukas Quiney",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 83.5,
+      "predictedFinalPoints": 167,
+      "grandTotal": 167,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 52,
+      "id": "6100",
+      "pointsDirection": 7,
+      "name": "Lucy Siddle",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82.5,
+      "predictedFinalPoints": 165,
+      "grandTotal": 165,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 53,
+      "id": "18204",
+      "pointsDirection": -20,
+      "name": "Joanne Rea",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 81.5,
+      "predictedFinalPoints": 163,
+      "grandTotal": 163,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "35222",
+      "pointsDirection": -22,
+      "name": "Callum Martin",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 81.5,
+      "predictedFinalPoints": 163,
+      "grandTotal": 163,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "7727",
+      "pointsDirection": 7,
+      "name": "Natalie Batey",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 152,
+      "grandTotal": 152,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "26950",
+      "pointsDirection": -21,
+      "name": "Jeff Haywood",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 75.5,
+      "predictedFinalPoints": 151,
+      "grandTotal": 151,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "32156",
+      "pointsDirection": -6,
+      "name": "Sam Atkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 75,
+      "predictedFinalPoints": 150,
+      "grandTotal": 150,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

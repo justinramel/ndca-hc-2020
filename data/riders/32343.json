@@ -1,0 +1,344 @@
+{
+  "id": "32343",
+  "name": "Donna McBride",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Cestria C.C.",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20076",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "03 October 2020",
+        "club": "Cestria C.C.",
+        "position": "30",
+        "time": "0:06:22.6",
+        "speed": "0.00 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 114,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 98,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 98,
+    "remainingShortPoints": 262,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 262,
+    "predictedFinalPoints": 98,
+    "pointsDirection": 12,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 98,
+      "medium": 0,
+      "long": 0,
+      "grand": 98
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20076",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "03 October 2020",
+        "club": "Cestria C.C.",
+        "position": "30",
+        "time": "0:06:22.6",
+        "speed": "0.00 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 114,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 114,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114,
+    "remainingShortPoints": 246,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 246,
+    "predictedFinalPoints": 342,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 114,
+      "medium": 0,
+      "long": 0,
+      "grand": 114
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "20076",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "03 October 2020",
+        "club": "Cestria C.C.",
+        "position": "30",
+        "time": "0:06:22.6",
+        "speed": "0.00 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 114,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 242,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 242,
+    "predictedFinalPoints": 354,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 118,
+      "medium": 0,
+      "long": 0,
+      "grand": 118
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20076",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "03 October 2020",
+      "club": "Cestria C.C.",
+      "position": "30",
+      "time": "0:06:22.6",
+      "speed": "0.00 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 114,
+      "lbar": 118,
+      "jbar": 0
+    }
+  ],
+  "position": 79,
+  "barHistory": [
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 98,
+        "medium": 0,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 67
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 98,
+        "medium": 0,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 79
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "8323",
+      "pointsDirection": 0,
+      "name": "Lewis Timmins",
+      "club": "Vector Racing",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 102,
+      "grandTotal": 102,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 77,
+      "id": "26200",
+      "pointsDirection": 12,
+      "name": "Michael Charlton",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 99,
+      "grandTotal": 99,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "20505",
+      "pointsDirection": 12,
+      "name": "Kenny McLellan",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 99,
+      "grandTotal": 99,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "32343",
+      "pointsDirection": 12,
+      "name": "Donna McBride",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 98,
+      "grandTotal": 98,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 80,
+      "id": "31233",
+      "pointsDirection": 12,
+      "name": "Stephen McAllister",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "8835",
+      "pointsDirection": 0,
+      "name": "Jay Pitt",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 82,
+      "id": "31274",
+      "pointsDirection": 13,
+      "name": "Ian Dodds",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

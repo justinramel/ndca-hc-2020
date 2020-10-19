@@ -1,0 +1,503 @@
+{
+  "id": "3926",
+  "name": "Chris Burns",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Reifen Racing",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Reifen Racing",
+        "position": "12",
+        "time": "0:04:48.8",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Reifen Racing",
+        "position": "12",
+        "time": "0:08:17.2",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Reifen Racing",
+        "position": "18",
+        "time": "0:08:07.4",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 109.66666666666667,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109.66666666666667,
+    "remainingShortPoints": 31,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 31,
+    "predictedFinalPoints": 329,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 329,
+      "medium": 0,
+      "long": 0,
+      "grand": 329
+    },
+    "predictedFinalPosition": 13
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Reifen Racing",
+        "position": "12",
+        "time": "0:08:17.2",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Reifen Racing",
+        "position": "18",
+        "time": "0:08:07.4",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Reifen Racing",
+        "position": "12",
+        "time": "0:04:48.8",
+        "speed": "0.00 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": true,
+    "averagePointsPerShortRace": 39,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 39,
+    "remainingShortPoints": 243,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 243,
+    "predictedFinalPoints": 117,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 117,
+      "medium": 0,
+      "long": 0,
+      "grand": 117
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Reifen Racing",
+      "position": "18",
+      "time": "0:08:07.4",
+      "speed": "0.00 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Reifen Racing",
+      "position": "12",
+      "time": "0:04:48.8",
+      "speed": "0.00 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Reifen Racing",
+      "position": "12",
+      "time": "0:08:17.2",
+      "speed": "0.00 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Reifen Racing",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 13,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 107,
+        "medium": 0,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 14
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 218,
+        "medium": 0,
+        "long": 0,
+        "grand": 218
+      },
+      "position": 10
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 329,
+        "medium": 0,
+        "long": 0,
+        "grand": 329
+      },
+      "position": 6
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 329,
+        "medium": 0,
+        "long": 0,
+        "grand": 329
+      },
+      "position": 8
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 329,
+        "medium": 0,
+        "long": 0,
+        "grand": 329
+      },
+      "position": 13
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 10,
+      "id": "11988",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 10,
+      "name": "Nick Munro",
+      "club": "Royal Air Force Cycling Association",
+      "averagePointsPerRace": 113.66666666666667,
+      "predictedFinalPoints": 341,
+      "grandTotal": 341,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 11,
+      "id": "33218",
+      "pointsDirection": -18,
+      "barPredictedFinalPosition": 11,
+      "name": "Peter Hawkins",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 111.66666666666667,
+      "predictedFinalPoints": 335,
+      "grandTotal": 335,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 12,
+      "id": "26931",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 12,
+      "name": "Wilson-Jay Brown",
+      "club": "PM Racing UK",
+      "averagePointsPerRace": 110.33333333333333,
+      "predictedFinalPoints": 331,
+      "grandTotal": 331,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 13,
+      "id": "3926",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 13,
+      "name": "Chris Burns",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 109.66666666666667,
+      "predictedFinalPoints": 329,
+      "grandTotal": 329,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 14,
+      "id": "32241",
+      "pointsDirection": -16,
+      "barPredictedFinalPosition": 14,
+      "name": "Christopher Wilcock",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 327,
+      "grandTotal": 327,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 15,
+      "id": "34874",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 15,
+      "name": "Matthew Williams",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 327,
+      "grandTotal": 327,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 16,
+      "id": "7830",
+      "pointsDirection": -15,
+      "barPredictedFinalPosition": 16,
+      "name": "Josh Reid",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 108.33333333333333,
+      "predictedFinalPoints": 325,
+      "grandTotal": 325,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "24253",
+  "name": "Lewis Wake",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Team Kirkley Cycles",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Team Kirkley Cycles",
+        "position": "17",
+        "time": "0:04:17.5",
+        "speed": "0.00 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 251,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 251,
+    "predictedFinalPoints": 109,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 109,
+      "medium": 0,
+      "long": 0,
+      "grand": 109
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Team Kirkley Cycles",
+      "position": "17",
+      "time": "0:04:17.5",
+      "speed": "0.00 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 68,
+  "barHistory": [
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 68
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "24395",
+      "pointsDirection": -48,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "30825",
+      "pointsDirection": 12,
+      "name": "Theodor Obholzer",
+      "club": "Durham University Cycling Club",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 114,
+      "grandTotal": 114,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 67,
+      "id": "4590",
+      "pointsDirection": 12,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 112,
+      "predictedFinalPoints": 112,
+      "grandTotal": 112,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 68,
+      "id": "24253",
+      "pointsDirection": 0,
+      "name": "Lewis Wake",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 109,
+      "grandTotal": 109,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 69,
+      "id": "34667",
+      "pointsDirection": 12,
+      "name": "Matthew Mernin",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 108,
+      "grandTotal": 108,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 70,
+      "id": "6348",
+      "pointsDirection": 0,
+      "name": "Josh Craven",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 108,
+      "grandTotal": 108,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 71,
+      "id": "9755",
+      "pointsDirection": 13,
+      "name": "Dave Diston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 106,
+      "grandTotal": 106,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

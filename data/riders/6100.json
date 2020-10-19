@@ -1,0 +1,452 @@
+{
+  "id": "6100",
+  "name": "Lucy Siddle",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Reifen Racing",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Reifen Racing",
+        "position": "47",
+        "time": "0:09:53.4",
+        "speed": "0.00 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Reifen Racing",
+        "position": "53",
+        "time": "0:06:12.4",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 82.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 82.5,
+    "remainingShortPoints": 195,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 195,
+    "predictedFinalPoints": 165,
+    "pointsDirection": 7,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 165,
+      "medium": 0,
+      "long": 0,
+      "grand": 165
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Reifen Racing",
+        "position": "47",
+        "time": "0:09:53.4",
+        "speed": "0.00 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Reifen Racing",
+        "position": "53",
+        "time": "0:06:12.4",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 108,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108,
+    "remainingShortPoints": 144,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 144,
+    "predictedFinalPoints": 324,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 216,
+      "medium": 0,
+      "long": 0,
+      "grand": 216
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Reifen Racing",
+        "position": "47",
+        "time": "0:09:53.4",
+        "speed": "0.00 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 109,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Reifen Racing",
+        "position": "53",
+        "time": "0:06:12.4",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 107,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 117,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 117,
+    "remainingShortPoints": 126,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 126,
+    "predictedFinalPoints": 351,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 234,
+      "medium": 0,
+      "long": 0,
+      "grand": 234
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Reifen Racing",
+      "position": "47",
+      "time": "0:09:53.4",
+      "speed": "0.00 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 109,
+      "lbar": 117,
+      "jbar": 0
+    },
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Reifen Racing",
+      "position": "53",
+      "time": "0:06:12.4",
+      "speed": "0.00 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 107,
+      "lbar": 117,
+      "jbar": 0
+    }
+  ],
+  "position": 52,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 85,
+        "medium": 0,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 36
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 165,
+        "medium": 0,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 26
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 165,
+        "medium": 0,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 38
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 165,
+        "medium": 0,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 45
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 165,
+        "medium": 0,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 52
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "8836",
+      "pointsDirection": 12,
+      "name": "Daniel Holmes",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 194,
+      "grandTotal": 194,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "28506",
+      "pointsDirection": -24,
+      "name": "Grace Inglis",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 174,
+      "grandTotal": 174,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 51,
+      "id": "35455",
+      "pointsDirection": -13,
+      "name": "Lukas Quiney",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 83.5,
+      "predictedFinalPoints": 167,
+      "grandTotal": 167,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 52,
+      "id": "6100",
+      "pointsDirection": 7,
+      "name": "Lucy Siddle",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82.5,
+      "predictedFinalPoints": 165,
+      "grandTotal": 165,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 53,
+      "id": "18204",
+      "pointsDirection": -20,
+      "name": "Joanne Rea",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 81.5,
+      "predictedFinalPoints": 163,
+      "grandTotal": 163,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 54,
+      "id": "35222",
+      "pointsDirection": -22,
+      "name": "Callum Martin",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 81.5,
+      "predictedFinalPoints": 163,
+      "grandTotal": 163,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 55,
+      "id": "7727",
+      "pointsDirection": 7,
+      "name": "Natalie Batey",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 152,
+      "grandTotal": 152,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "7828",
+  "name": "Daryl Oguona",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Tyne & Wear Fire & Rescue Service CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Tyne & Wear Fire & Rescue Service CC",
+        "position": "29",
+        "time": "0:09:06.3",
+        "speed": "0.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 94,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 94,
+    "remainingShortPoints": 266,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 266,
+    "predictedFinalPoints": 94,
+    "pointsDirection": 14,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 94,
+      "medium": 0,
+      "long": 0,
+      "grand": 94
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Tyne & Wear Fire & Rescue Service CC",
+        "position": "29",
+        "time": "0:09:06.3",
+        "speed": "0.00 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 251,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 251,
+    "predictedFinalPoints": 327,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 109,
+      "medium": 0,
+      "long": 0,
+      "grand": 109
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "position": "29",
+      "time": "0:09:06.3",
+      "speed": "0.00 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 109,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 85,
+  "barHistory": [
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 63
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 71
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 85
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 82,
+      "id": "31274",
+      "pointsDirection": 13,
+      "name": "Ian Dodds",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 83,
+      "id": "36126",
+      "pointsDirection": 13,
+      "name": "David Glrn",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 84,
+      "id": "3037",
+      "pointsDirection": 0,
+      "name": "Nick Badcock",
+      "club": "Team Kirkley Cycles",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 85,
+      "id": "7828",
+      "pointsDirection": 14,
+      "name": "Daryl Oguona",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 86,
+      "id": "10911",
+      "pointsDirection": 11,
+      "name": "Scot Whitfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 90,
+      "grandTotal": 90,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 87,
+      "id": "19868",
+      "pointsDirection": 0,
+      "name": "Paddy Blundell",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "4233",
+      "pointsDirection": 0,
+      "name": "Ian Taylor",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 88,
+      "grandTotal": 88,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

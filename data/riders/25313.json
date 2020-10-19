@@ -1,0 +1,416 @@
+{
+  "id": "25313",
+  "name": "Harry Riches",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "16",
+        "time": "0:08:03.2",
+        "speed": "0.00 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Muckle Cycle Club",
+        "position": "31",
+        "time": "0:04:29.0",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 104.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 104.5,
+    "remainingShortPoints": 151,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 151,
+    "predictedFinalPoints": 209,
+    "pointsDirection": -9,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 209,
+      "medium": 0,
+      "long": 0,
+      "grand": 209
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "16",
+        "time": "0:08:03.2",
+        "speed": "0.00 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Muckle Cycle Club",
+        "position": "31",
+        "time": "0:04:29.0",
+        "speed": "0.00 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 122,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 122,
+    "predictedFinalPoints": 357,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 238,
+      "medium": 0,
+      "long": 0,
+      "grand": 238
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Muckle Cycle Club",
+      "position": "16",
+      "time": "0:08:03.2",
+      "speed": "0.00 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Muckle Cycle Club",
+      "position": "31",
+      "time": "0:04:29.0",
+      "speed": "0.00 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    }
+  ],
+  "position": 47,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 12
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 36
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 52
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 109,
+        "medium": 0,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 56
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 209,
+        "medium": 0,
+        "long": 0,
+        "grand": 209
+      },
+      "position": 47
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 44,
+      "id": "34998",
+      "pointsDirection": -3,
+      "barPredictedFinalPosition": 44,
+      "name": "Georgia Campbell",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 69.66666666666667,
+      "predictedFinalPoints": 209,
+      "grandTotal": 209,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 45,
+      "id": "30519",
+      "pointsDirection": -6,
+      "barPredictedFinalPosition": 45,
+      "name": "Lee Charlton",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 63.333333333333336,
+      "predictedFinalPoints": 190,
+      "grandTotal": 190,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 46,
+      "id": "20460",
+      "pointsDirection": -7,
+      "name": "Nick Spencer",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 228,
+      "grandTotal": 228,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 47,
+      "id": "25313",
+      "pointsDirection": -9,
+      "name": "Harry Riches",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 104.5,
+      "predictedFinalPoints": 209,
+      "grandTotal": 209,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 48,
+      "id": "35710",
+      "pointsDirection": 12,
+      "name": "Colin Ash",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 100,
+      "predictedFinalPoints": 200,
+      "grandTotal": 200,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 49,
+      "id": "8836",
+      "pointsDirection": 12,
+      "name": "Daniel Holmes",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 194,
+      "grandTotal": 194,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 50,
+      "id": "28506",
+      "pointsDirection": -24,
+      "name": "Grace Inglis",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 174,
+      "grandTotal": 174,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

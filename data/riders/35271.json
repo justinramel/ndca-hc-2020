@@ -1,0 +1,437 @@
+{
+  "id": "35271",
+  "name": "Zac Batey",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Derwentside CC",
+        "position": "56",
+        "time": "0:11:00.8",
+        "speed": "0.00 Mph",
+        "bar": 78,
+        "barPosition": 43,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 114
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Derwentside CC",
+        "position": "66",
+        "time": "0:07:17.4",
+        "speed": "0.00 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 74,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 74,
+    "remainingShortPoints": 212,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 212,
+    "predictedFinalPoints": 148,
+    "pointsDirection": 9,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 148,
+      "medium": 0,
+      "long": 0,
+      "grand": 148
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Derwentside CC",
+        "position": "66",
+        "time": "0:07:17.4",
+        "speed": "0.00 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      },
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Derwentside CC",
+        "position": "56",
+        "time": "0:11:00.8",
+        "speed": "0.00 Mph",
+        "bar": 78,
+        "barPosition": 43,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 114
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 114.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114.5,
+    "remainingShortPoints": 131,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 131,
+    "predictedFinalPoints": 343.5,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 229,
+      "medium": 0,
+      "long": 0,
+      "grand": 229
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Derwentside CC",
+      "position": "56",
+      "time": "0:11:00.8",
+      "speed": "0.00 Mph",
+      "bar": 78,
+      "barPosition": 43,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 114
+    },
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Derwentside CC",
+      "position": "66",
+      "time": "0:07:17.4",
+      "speed": "0.00 Mph",
+      "bar": 70,
+      "barPosition": 51,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 115
+    },
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Derwentside CC",
+      "position": "DNF",
+      "time": "0:00:00.0",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 59,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 78,
+        "medium": 0,
+        "long": 0,
+        "grand": 78
+      },
+      "position": 43
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 148,
+        "medium": 0,
+        "long": 0,
+        "grand": 148
+      },
+      "position": 30
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 148,
+        "medium": 0,
+        "long": 0,
+        "grand": 148
+      },
+      "position": 43
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 148,
+        "medium": 0,
+        "long": 0,
+        "grand": 148
+      },
+      "position": 50
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 148,
+        "medium": 0,
+        "long": 0,
+        "grand": 148
+      },
+      "position": 59
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "26950",
+      "pointsDirection": -21,
+      "name": "Jeff Haywood",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 75.5,
+      "predictedFinalPoints": 151,
+      "grandTotal": 151,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 57,
+      "id": "32156",
+      "pointsDirection": -6,
+      "name": "Sam Atkinson",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 75,
+      "predictedFinalPoints": 150,
+      "grandTotal": 150,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 58,
+      "id": "13047",
+      "pointsDirection": 9,
+      "name": "Barry Holyoak",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 74.5,
+      "predictedFinalPoints": 149,
+      "grandTotal": 149,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "35271",
+      "pointsDirection": 9,
+      "name": "Zac Batey",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 148,
+      "grandTotal": 148,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "28450",
+      "pointsDirection": -19,
+      "name": "Richard Francksen",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "30708",
+      "pointsDirection": -11,
+      "name": "Gavin Quiney",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "24505",
+      "pointsDirection": 10,
+      "name": "Frank Devlin",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

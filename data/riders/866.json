@@ -1,0 +1,515 @@
+{
+  "id": "866",
+  "name": "Colin Atkinson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Muckle Cycle Club",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "3",
+        "time": "0:04:28.8",
+        "speed": "0.00 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "4",
+        "time": "0:07:35.8",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "6",
+        "time": "0:07:34.3",
+        "speed": "0.00 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 6,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 6,
+    "predictedFinalPoints": 354,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 354,
+      "medium": 0,
+      "long": 0,
+      "grand": 354
+    },
+    "predictedFinalPosition": 4
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "6",
+        "time": "0:07:34.3",
+        "speed": "0.00 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "3",
+        "time": "0:04:28.8",
+        "speed": "0.00 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Muckle Cycle Club",
+        "position": "4",
+        "time": "0:07:35.8",
+        "speed": "0.00 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 0,
+    "predictedFinalPoints": 360,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 360,
+      "medium": 0,
+      "long": 0,
+      "grand": 360
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "Muckle Cycle Club",
+      "position": "6",
+      "time": "0:07:34.3",
+      "speed": "0.00 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Muckle Cycle Club",
+      "position": "3",
+      "time": "0:04:28.8",
+      "speed": "0.00 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Muckle Cycle Club",
+      "position": "4",
+      "time": "0:07:35.8",
+      "speed": "0.00 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20076",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "03 October 2020",
+      "club": "Muckle Cycle Club",
+      "position": "7",
+      "time": "0:04:36.8",
+      "speed": "0.00 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Muckle Cycle Club",
+      "position": "7",
+      "time": "0:04:00.8",
+      "speed": "0.00 Mph",
+      "bar": 115,
+      "barPosition": 6,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 4,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 117,
+        "medium": 0,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 4
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 236,
+        "medium": 0,
+        "long": 0,
+        "grand": 236
+      },
+      "position": 2
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 354,
+        "medium": 0,
+        "long": 0,
+        "grand": 354
+      },
+      "position": 2
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 354,
+        "medium": 0,
+        "long": 0,
+        "grand": 354
+      },
+      "position": 2
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 354,
+        "medium": 0,
+        "long": 0,
+        "grand": 354
+      },
+      "position": 4
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 2nd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 3rd"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "4 x Top 5"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "5 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 2,
+      "id": "25878",
+      "pointsDirection": -25,
+      "barPredictedFinalPosition": 2,
+      "name": "Matty Smith",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 357,
+      "grandTotal": 357,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 3,
+      "id": "21284",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 3,
+      "name": "Lee Cuthbertson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118.33333333333333,
+      "predictedFinalPoints": 355,
+      "grandTotal": 355,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 4,
+      "id": "866",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 4,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 118,
+      "predictedFinalPoints": 354,
+      "grandTotal": 354,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 5,
+      "id": "34865",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 5,
+      "name": "Adam Martin",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 117.66666666666667,
+      "predictedFinalPoints": 353,
+      "grandTotal": 353,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 6,
+      "id": "58",
+      "pointsDirection": -20,
+      "barPredictedFinalPosition": 6,
+      "name": "John Bowman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117.33333333333333,
+      "predictedFinalPoints": 352,
+      "grandTotal": 352,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 7,
+      "id": "11311",
+      "pointsDirection": -21,
+      "barPredictedFinalPosition": 7,
+      "name": "Graeme Wardale",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 114.33333333333333,
+      "predictedFinalPoints": 343,
+      "grandTotal": 343,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

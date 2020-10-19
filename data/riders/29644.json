@@ -1,0 +1,402 @@
+{
+  "id": "29644",
+  "name": "Daniel Saba",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Vector Racing",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Vector Racing",
+        "position": "57",
+        "time": "0:06:34.8",
+        "speed": "0.00 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 116
+      },
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Vector Racing",
+        "position": "81",
+        "time": "0:05:25.4",
+        "speed": "0.00 Mph",
+        "bar": 62,
+        "barPosition": 59,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 69,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 69,
+    "remainingShortPoints": 222,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 222,
+    "predictedFinalPoints": 138,
+    "pointsDirection": -25,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 138,
+      "medium": 0,
+      "long": 0,
+      "grand": 138
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "Vector Racing",
+        "position": "57",
+        "time": "0:06:34.8",
+        "speed": "0.00 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 116
+      },
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Vector Racing",
+        "position": "81",
+        "time": "0:05:25.4",
+        "speed": "0.00 Mph",
+        "bar": 62,
+        "barPosition": 59,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 115.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115.5,
+    "remainingShortPoints": 129,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 129,
+    "predictedFinalPoints": 346.5,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 231,
+      "medium": 0,
+      "long": 0,
+      "grand": 231
+    }
+  },
+  "races": [
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "Vector Racing",
+      "position": "57",
+      "time": "0:06:34.8",
+      "speed": "0.00 Mph",
+      "bar": 76,
+      "barPosition": 45,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 116
+    },
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Vector Racing",
+      "position": "81",
+      "time": "0:05:25.4",
+      "speed": "0.00 Mph",
+      "bar": 62,
+      "barPosition": 59,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 115
+    }
+  ],
+  "position": 63,
+  "barHistory": [
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 63
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 80
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 88
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 138,
+        "medium": 0,
+        "long": 0,
+        "grand": 138
+      },
+      "position": 63
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "28450",
+      "pointsDirection": -19,
+      "name": "Richard Francksen",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "30708",
+      "pointsDirection": -11,
+      "name": "Gavin Quiney",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "24505",
+      "pointsDirection": 10,
+      "name": "Frank Devlin",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "29644",
+      "pointsDirection": -25,
+      "name": "Daniel Saba",
+      "club": "Vector Racing",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 138,
+      "grandTotal": 138,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "9483",
+      "pointsDirection": 0,
+      "name": "Roddy Weir",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "24395",
+      "pointsDirection": -48,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 66,
+      "id": "30825",
+      "pointsDirection": 12,
+      "name": "Theodor Obholzer",
+      "club": "Durham University Cycling Club",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 114,
+      "grandTotal": 114,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

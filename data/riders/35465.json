@@ -1,0 +1,360 @@
+{
+  "id": "35465",
+  "name": "Michael Tupman",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "North Tyneside Riders CC",
+        "position": "51",
+        "time": "0:10:24.6",
+        "speed": "0.00 Mph",
+        "bar": 81,
+        "barPosition": 40,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 81,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 81,
+    "remainingShortPoints": 279,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 279,
+    "predictedFinalPoints": 81,
+    "pointsDirection": 11,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 81,
+      "medium": 0,
+      "long": 0,
+      "grand": 81
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "North Tyneside Riders CC",
+        "position": "51",
+        "time": "0:10:24.6",
+        "speed": "0.00 Mph",
+        "bar": 81,
+        "barPosition": 40,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 115
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 115,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 245,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 245,
+    "predictedFinalPoints": 345,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 115,
+      "medium": 0,
+      "long": 0,
+      "grand": 115
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "North Tyneside Riders CC",
+      "position": "51",
+      "time": "0:10:24.6",
+      "speed": "0.00 Mph",
+      "bar": 81,
+      "barPosition": 40,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 115
+    }
+  ],
+  "position": 94,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 81,
+        "medium": 0,
+        "long": 0,
+        "grand": 81
+      },
+      "position": 40
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 81,
+        "medium": 0,
+        "long": 0,
+        "grand": 81
+      },
+      "position": 57
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 81,
+        "medium": 0,
+        "long": 0,
+        "grand": 81
+      },
+      "position": 74
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 81,
+        "medium": 0,
+        "long": 0,
+        "grand": 81
+      },
+      "position": 83
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 81,
+        "medium": 0,
+        "long": 0,
+        "grand": 81
+      },
+      "position": 94
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 91,
+      "id": "15865",
+      "pointsDirection": 11,
+      "name": "David Linsley",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 92,
+      "id": "23735",
+      "pointsDirection": 11,
+      "name": "Keith Siddle",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 93,
+      "id": "36019",
+      "pointsDirection": 11,
+      "name": "Lara Gosling",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 94,
+      "id": "35465",
+      "pointsDirection": 11,
+      "name": "Michael Tupman",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "19527",
+      "pointsDirection": 11,
+      "name": "Richard Kirby",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 96,
+      "id": "80",
+      "pointsDirection": 0,
+      "name": "Greg Charlton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 97,
+      "id": "17551",
+      "pointsDirection": 12,
+      "name": "Michael Aspey",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

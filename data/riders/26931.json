@@ -1,0 +1,443 @@
+{
+  "id": "26931",
+  "name": "Wilson-Jay Brown",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "PM Racing UK",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "PM Racing UK",
+        "position": "11",
+        "time": "0:08:15.7",
+        "speed": "0.00 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20073",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (Winters Gibbet)",
+        "course": "MH9",
+        "distance": 0,
+        "fee": 11,
+        "date": "06 September 2020",
+        "club": "PM Racing UK",
+        "position": "15",
+        "time": "0:08:02.5",
+        "speed": "0.00 Mph",
+        "bar": 110,
+        "barPosition": 11,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20076",
+        "raceCategory": "short",
+        "name": "Cestria CC (Peth Bank)",
+        "course": "MH2",
+        "distance": 0,
+        "fee": 11,
+        "date": "03 October 2020",
+        "club": "PM Racing UK",
+        "position": "15",
+        "time": "0:05:01.4",
+        "speed": "0.00 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 3,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 110.33333333333333,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 110.33333333333333,
+    "remainingShortPoints": 29,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 29,
+    "predictedFinalPoints": 331,
+    "pointsDirection": 5,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 331,
+      "medium": 0,
+      "long": 0,
+      "grand": 331
+    },
+    "predictedFinalPosition": 12
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20073",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (Winters Gibbet)",
+      "course": "MH9",
+      "distance": 0,
+      "fee": 11,
+      "date": "06 September 2020",
+      "club": "PM Racing UK",
+      "position": "15",
+      "time": "0:08:02.5",
+      "speed": "0.00 Mph",
+      "bar": 110,
+      "barPosition": 11,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "PM Racing UK",
+      "position": "17",
+      "time": "0:04:57.3",
+      "speed": "0.00 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "PM Racing UK",
+      "position": "11",
+      "time": "0:08:15.7",
+      "speed": "0.00 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20076",
+      "raceCategory": "short",
+      "name": "Cestria CC (Peth Bank)",
+      "course": "MH2",
+      "distance": 0,
+      "fee": 11,
+      "date": "03 October 2020",
+      "club": "PM Racing UK",
+      "position": "15",
+      "time": "0:05:01.4",
+      "speed": "0.00 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 12,
+  "barHistory": [
+    {
+      "eventId": "20073",
+      "date": "06 September 2020",
+      "name": "MH9",
+      "points": {
+        "short": 110,
+        "medium": 0,
+        "long": 0,
+        "grand": 110
+      },
+      "position": 11
+    },
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 11
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 328,
+        "medium": 0,
+        "long": 0,
+        "grand": 328
+      },
+      "position": 7
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 331,
+        "medium": 0,
+        "long": 0,
+        "grand": 331
+      },
+      "position": 7
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 331,
+        "medium": 0,
+        "long": 0,
+        "grand": 331
+      },
+      "position": 12
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 9,
+      "id": "2235",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 9,
+      "name": "Tony Fawcett",
+      "club": "Newcastle Cheviot CC",
+      "averagePointsPerRace": 113.66666666666667,
+      "predictedFinalPoints": 341,
+      "grandTotal": 341,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 10,
+      "id": "11988",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 10,
+      "name": "Nick Munro",
+      "club": "Royal Air Force Cycling Association",
+      "averagePointsPerRace": 113.66666666666667,
+      "predictedFinalPoints": 341,
+      "grandTotal": 341,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 11,
+      "id": "33218",
+      "pointsDirection": -18,
+      "barPredictedFinalPosition": 11,
+      "name": "Peter Hawkins",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 111.66666666666667,
+      "predictedFinalPoints": 335,
+      "grandTotal": 335,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 12,
+      "id": "26931",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 12,
+      "name": "Wilson-Jay Brown",
+      "club": "PM Racing UK",
+      "averagePointsPerRace": 110.33333333333333,
+      "predictedFinalPoints": 331,
+      "grandTotal": 331,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 13,
+      "id": "3926",
+      "pointsDirection": 5,
+      "barPredictedFinalPosition": 13,
+      "name": "Chris Burns",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 109.66666666666667,
+      "predictedFinalPoints": 329,
+      "grandTotal": 329,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 14,
+      "id": "32241",
+      "pointsDirection": -16,
+      "barPredictedFinalPosition": 14,
+      "name": "Christopher Wilcock",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 327,
+      "grandTotal": 327,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 15,
+      "id": "34874",
+      "pointsDirection": 6,
+      "barPredictedFinalPosition": 15,
+      "name": "Matthew Williams",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 327,
+      "grandTotal": 327,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "29494",
+  "name": "Barry Kelly",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Barnesbury CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Barnesbury CC",
+        "position": "87",
+        "time": "0:05:46.4",
+        "speed": "0.00 Mph",
+        "bar": 56,
+        "barPosition": 65,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 56,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 56,
+    "remainingShortPoints": 304,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 304,
+    "predictedFinalPoints": 56,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 56,
+      "medium": 0,
+      "long": 0,
+      "grand": 56
+    }
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Barnesbury CC",
+      "position": "87",
+      "time": "0:05:46.4",
+      "speed": "0.00 Mph",
+      "bar": 56,
+      "barPosition": 65,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 118,
+  "barHistory": [
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 56,
+        "medium": 0,
+        "long": 0,
+        "grand": 56
+      },
+      "position": 118
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 115,
+      "id": "23195",
+      "pointsDirection": 0,
+      "name": "Lee McCarron",
+      "club": "Vector Racing",
+      "averagePointsPerRace": 64,
+      "predictedFinalPoints": 64,
+      "grandTotal": 64,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 116,
+      "id": "36480",
+      "pointsDirection": 0,
+      "name": "Marcus Rasmussen",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 60,
+      "predictedFinalPoints": 60,
+      "grandTotal": 60,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 117,
+      "id": "27458",
+      "pointsDirection": 0,
+      "name": "Ryan Parkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 58,
+      "predictedFinalPoints": 58,
+      "grandTotal": 58,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 118,
+      "id": "29494",
+      "pointsDirection": 0,
+      "name": "Barry Kelly",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 56,
+      "predictedFinalPoints": 56,
+      "grandTotal": 56,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 119,
+      "id": "5262",
+      "pointsDirection": 0,
+      "name": "Derek Billham",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 55,
+      "predictedFinalPoints": 55,
+      "grandTotal": 55,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 120,
+      "id": "29311",
+      "pointsDirection": 0,
+      "name": "Harris Hall",
+      "club": "Velo Culture",
+      "averagePointsPerRace": 52,
+      "predictedFinalPoints": 52,
+      "grandTotal": 52,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 121,
+      "id": "35650",
+      "pointsDirection": 0,
+      "name": "Sean Harrion",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 51,
+      "predictedFinalPoints": 51,
+      "grandTotal": 51,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

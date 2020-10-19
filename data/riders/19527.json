@@ -1,0 +1,336 @@
+{
+  "id": "19527",
+  "name": "Richard Kirby",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Tyne & Wear Fire & Rescue Service CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Tyne & Wear Fire & Rescue Service CC",
+        "position": "45",
+        "time": "0:11:19.2",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 99,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 80,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 80,
+    "remainingShortPoints": 280,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 280,
+    "predictedFinalPoints": 80,
+    "pointsDirection": 11,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 80,
+      "medium": 0,
+      "long": 0,
+      "grand": 80
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Tyne & Wear Fire & Rescue Service CC",
+        "position": "45",
+        "time": "0:11:19.2",
+        "speed": "0.00 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 99,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 99,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 99,
+    "remainingShortPoints": 261,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 261,
+    "predictedFinalPoints": 297,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 99,
+      "medium": 0,
+      "long": 0,
+      "grand": 99
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "position": "45",
+      "time": "0:11:19.2",
+      "speed": "0.00 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 99,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 95,
+  "barHistory": [
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 80,
+        "medium": 0,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 75
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 80,
+        "medium": 0,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 84
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 80,
+        "medium": 0,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 95
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 92,
+      "id": "23735",
+      "pointsDirection": 11,
+      "name": "Keith Siddle",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 93,
+      "id": "36019",
+      "pointsDirection": 11,
+      "name": "Lara Gosling",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 94,
+      "id": "35465",
+      "pointsDirection": 11,
+      "name": "Michael Tupman",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "19527",
+      "pointsDirection": 11,
+      "name": "Richard Kirby",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 96,
+      "id": "80",
+      "pointsDirection": 0,
+      "name": "Greg Charlton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 97,
+      "id": "17551",
+      "pointsDirection": 12,
+      "name": "Michael Aspey",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 98,
+      "id": "11708",
+      "pointsDirection": 12,
+      "name": "Howie Buckingham",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 79,
+      "predictedFinalPoints": 79,
+      "grandTotal": 79,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

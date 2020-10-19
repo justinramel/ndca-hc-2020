@@ -1,0 +1,312 @@
+{
+  "id": "4233",
+  "name": "Ian Taylor",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blumilk.com",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Blumilk.com",
+        "position": "48",
+        "time": "0:04:55.8",
+        "speed": "0.00 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 88,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 88,
+    "remainingShortPoints": 272,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 272,
+    "predictedFinalPoints": 88,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 88,
+      "medium": 0,
+      "long": 0,
+      "grand": 88
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20078",
+        "raceCategory": "short",
+        "name": "Muckle CC (Prospect Hill)",
+        "course": "MH21",
+        "distance": 0,
+        "fee": 10,
+        "date": "18 October 2020",
+        "club": "Blumilk.com",
+        "position": "48",
+        "time": "0:04:55.8",
+        "speed": "0.00 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 247,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 247,
+    "predictedFinalPoints": 339,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 113,
+      "medium": 0,
+      "long": 0,
+      "grand": 113
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20078",
+      "raceCategory": "short",
+      "name": "Muckle CC (Prospect Hill)",
+      "course": "MH21",
+      "distance": 0,
+      "fee": 10,
+      "date": "18 October 2020",
+      "club": "Blumilk.com",
+      "position": "48",
+      "time": "0:04:55.8",
+      "speed": "0.00 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 88,
+  "barHistory": [
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 88
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 85,
+      "id": "7828",
+      "pointsDirection": 14,
+      "name": "Daryl Oguona",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 86,
+      "id": "10911",
+      "pointsDirection": 11,
+      "name": "Scot Whitfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 90,
+      "grandTotal": 90,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 87,
+      "id": "19868",
+      "pointsDirection": 0,
+      "name": "Paddy Blundell",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "4233",
+      "pointsDirection": 0,
+      "name": "Ian Taylor",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 88,
+      "grandTotal": 88,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 89,
+      "id": "12581",
+      "pointsDirection": 11,
+      "name": "Robert Scandle",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 87,
+      "grandTotal": 87,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 90,
+      "id": "21565",
+      "pointsDirection": 0,
+      "name": "Simon Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 86,
+      "predictedFinalPoints": 86,
+      "grandTotal": 86,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 91,
+      "id": "15865",
+      "pointsDirection": 11,
+      "name": "David Linsley",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

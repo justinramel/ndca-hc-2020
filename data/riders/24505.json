@@ -1,0 +1,402 @@
+{
+  "id": "24505",
+  "name": "Frank Devlin",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "South Shields Velo Cycling Club",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "South Shields Velo Cycling Club",
+        "position": "55",
+        "time": "0:14:06.7",
+        "speed": "0.00 Mph",
+        "bar": 71,
+        "barPosition": 50,
+        "vbar": 92,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "South Shields Velo Cycling Club",
+        "position": "68",
+        "time": "0:08:32.4",
+        "speed": "0.00 Mph",
+        "bar": 68,
+        "barPosition": 53,
+        "vbar": 100,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 69.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 69.5,
+    "remainingShortPoints": 221,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 221,
+    "predictedFinalPoints": 139,
+    "pointsDirection": 10,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 139,
+      "medium": 0,
+      "long": 0,
+      "grand": 139
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20074",
+        "raceCategory": "short",
+        "name": "GS Metro (Hedley On The Hill)",
+        "course": "MH11",
+        "distance": 0,
+        "fee": 11,
+        "date": "13 September 2020",
+        "club": "South Shields Velo Cycling Club",
+        "position": "68",
+        "time": "0:08:32.4",
+        "speed": "0.00 Mph",
+        "bar": 68,
+        "barPosition": 53,
+        "vbar": 100,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "South Shields Velo Cycling Club",
+        "position": "55",
+        "time": "0:14:06.7",
+        "speed": "0.00 Mph",
+        "bar": 71,
+        "barPosition": 50,
+        "vbar": 92,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 96,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 96,
+    "remainingShortPoints": 168,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 168,
+    "predictedFinalPoints": 288,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 192,
+      "medium": 0,
+      "long": 0,
+      "grand": 192
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20074",
+      "raceCategory": "short",
+      "name": "GS Metro (Hedley On The Hill)",
+      "course": "MH11",
+      "distance": 0,
+      "fee": 11,
+      "date": "13 September 2020",
+      "club": "South Shields Velo Cycling Club",
+      "position": "68",
+      "time": "0:08:32.4",
+      "speed": "0.00 Mph",
+      "bar": 68,
+      "barPosition": 53,
+      "vbar": 100,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "South Shields Velo Cycling Club",
+      "position": "55",
+      "time": "0:14:06.7",
+      "speed": "0.00 Mph",
+      "bar": 71,
+      "barPosition": 50,
+      "vbar": 92,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 62,
+  "barHistory": [
+    {
+      "eventId": "20074",
+      "date": "13 September 2020",
+      "name": "MH11",
+      "points": {
+        "short": 68,
+        "medium": 0,
+        "long": 0,
+        "grand": 68
+      },
+      "position": 68
+    },
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 0,
+        "grand": 139
+      },
+      "position": 45
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 0,
+        "grand": 139
+      },
+      "position": 52
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 0,
+        "grand": 139
+      },
+      "position": 62
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 59,
+      "id": "35271",
+      "pointsDirection": 9,
+      "name": "Zac Batey",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 148,
+      "grandTotal": 148,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "28450",
+      "pointsDirection": -19,
+      "name": "Richard Francksen",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 61,
+      "id": "30708",
+      "pointsDirection": -11,
+      "name": "Gavin Quiney",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73.5,
+      "predictedFinalPoints": 147,
+      "grandTotal": 147,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "24505",
+      "pointsDirection": 10,
+      "name": "Frank Devlin",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 63,
+      "id": "29644",
+      "pointsDirection": -25,
+      "name": "Daniel Saba",
+      "club": "Vector Racing",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 138,
+      "grandTotal": 138,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 64,
+      "id": "9483",
+      "pointsDirection": 0,
+      "name": "Roddy Weir",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "24395",
+      "pointsDirection": -48,
+      "name": "Andy Richardson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

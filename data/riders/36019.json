@@ -1,0 +1,356 @@
+{
+  "id": "36019",
+  "name": "Lara Gosling",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Reifen Racing",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Reifen Racing",
+        "position": "43",
+        "time": "0:11:05.5",
+        "speed": "0.00 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 100,
+        "lbar": 119,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 82,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 82,
+    "remainingShortPoints": 278,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 278,
+    "predictedFinalPoints": 82,
+    "pointsDirection": 11,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 82,
+      "medium": 0,
+      "long": 0,
+      "grand": 82
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Reifen Racing",
+        "position": "43",
+        "time": "0:11:05.5",
+        "speed": "0.00 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 100,
+        "lbar": 119,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 100,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 100,
+    "remainingShortPoints": 260,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 260,
+    "predictedFinalPoints": 300,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 100,
+      "medium": 0,
+      "long": 0,
+      "grand": 100
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "20075",
+        "raceCategory": "short",
+        "name": "Sunderland Clarion CC (Silver Hills)",
+        "course": "MH4",
+        "distance": 0,
+        "fee": 11,
+        "date": "27 September 2020",
+        "club": "Reifen Racing",
+        "position": "43",
+        "time": "0:11:05.5",
+        "speed": "0.00 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 100,
+        "lbar": 119,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 241,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 241,
+    "predictedFinalPoints": 357,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 119,
+      "medium": 0,
+      "long": 0,
+      "grand": 119
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 360,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "20075",
+      "raceCategory": "short",
+      "name": "Sunderland Clarion CC (Silver Hills)",
+      "course": "MH4",
+      "distance": 0,
+      "fee": 11,
+      "date": "27 September 2020",
+      "club": "Reifen Racing",
+      "position": "43",
+      "time": "0:11:05.5",
+      "speed": "0.00 Mph",
+      "bar": 82,
+      "barPosition": 39,
+      "vbar": 100,
+      "lbar": 119,
+      "jbar": 0
+    }
+  ],
+  "position": 93,
+  "barHistory": [
+    {
+      "eventId": "20075",
+      "date": "27 September 2020",
+      "name": "MH4",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 73
+    },
+    {
+      "eventId": "20076",
+      "date": "03 October 2020",
+      "name": "MH2",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 82
+    },
+    {
+      "eventId": "20078",
+      "date": "18 October 2020",
+      "name": "MH21",
+      "points": {
+        "short": 82,
+        "medium": 0,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 93
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "16523",
+      "pointsDirection": -24,
+      "barPredictedFinalPosition": 1,
+      "name": "Marcus Cram",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 120,
+      "predictedFinalPoints": 360,
+      "grandTotal": 360,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 90,
+      "id": "21565",
+      "pointsDirection": 0,
+      "name": "Simon Walker",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 86,
+      "predictedFinalPoints": 86,
+      "grandTotal": 86,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 91,
+      "id": "15865",
+      "pointsDirection": 11,
+      "name": "David Linsley",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 92,
+      "id": "23735",
+      "pointsDirection": 11,
+      "name": "Keith Siddle",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 93,
+      "id": "36019",
+      "pointsDirection": 11,
+      "name": "Lara Gosling",
+      "club": "Reifen Racing",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 94,
+      "id": "35465",
+      "pointsDirection": 11,
+      "name": "Michael Tupman",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "19527",
+      "pointsDirection": 11,
+      "name": "Richard Kirby",
+      "club": "Tyne & Wear Fire & Rescue Service CC",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 96,
+      "id": "80",
+      "pointsDirection": 0,
+      "name": "Greg Charlton",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 80,
+      "grandTotal": 80,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}
